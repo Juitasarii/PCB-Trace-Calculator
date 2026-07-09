@@ -10,7 +10,7 @@ A professional desktop application designed to calculate the optimal Printed Cir
 * **Real-Time Analytics:** Instantly computes Trace Width, Cross-Sectional Area, Resistance, Voltage Drop, and Power Loss.
 * **Interactive Geometry Preview:** Features a proportionally scaled visual representation of the calculated trace.
 * **Dynamic Parameters:** Easily adjust Electric Current (A), Target Temperature Rise (°C), Copper Weight (oz), and Trace Length (mm).
-* **Portable Executable:** Ready-to-use `.exe` file for Windows users—no Python environment required.
+* **Portable Executable:** Ready-to-use `.exe` file for Windows users.
 
 ## 📸 Application Preview
 <img width="854" height="947" alt="image" src="https://github.com/user-attachments/assets/028355c0-c627-4415-bb0b-643351a5baaa" />
