@@ -13,7 +13,8 @@ A professional desktop application designed to calculate the optimal Printed Cir
 * **Portable Executable:** Ready-to-use `.exe` file for Windows users—no Python environment required.
 
 ## 📸 Application Preview
-<img width="854" height="947" alt="image" src="https://github.com/user-attachments/assets/37740222-a2b2-48df-958b-896288bfa6d5" />
+<img width="854" height="947" alt="image" src="https://github.com/user-attachments/assets/028355c0-c627-4415-bb0b-643351a5baaa" />
+
 
 
 ## 📥 How to Run (For Windows Users / HRD)
